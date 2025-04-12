@@ -18,4 +18,4 @@ ada di folder postman/article_service_postman_collection.json, tinggal di import
 - http://localhost:1324/article/add
 - http://localhost:1324/article/edit/{id}
 - http://localhost:1324/article/preview
-asdfas
+- asdfas
